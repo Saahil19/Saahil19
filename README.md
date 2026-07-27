@@ -54,7 +54,7 @@
 
 - 🎓 **CSE Undergrad** @ IIIT Vadodara, Gandhinagar — **Batch 2028** (CGPA: 7.58/10)
 - 🤖 Passionate about **AI Agents, RAG pipelines, LLMs & Full-Stack Engineering**
-- 🔭 Currently building **[LegalEagle](https://github.com/Saahil19/legaleagle)** — AI-powered contract analysis with multi-agent systems
+- 🔭 Currently building **[LegalEagle](https://github.com/Saahil19/LegalEagle)** — AI-powered contract analysis with multi-agent systems
 - 🌱 Deep-diving into **LangGraph · Agentic Workflows · Production ML**
 - ⚔️ **LeetCode Knight** — 850+ problems solved, Rating **1960**
 - 🏆 Competed @ Flipkart Gridlock, HackIITV, HackOut, Code Clash & Tri Code Jam
@@ -193,11 +193,11 @@
 
 <div align="center">
 
-| Project | Stack | Description |
-|---|---|---|
-| 🦅 **[LegalEagle](https://github.com/Saahil19)** | Python · LangChain · React · FastAPI | AI contract analysis with BERT NER + RAG pipeline + multi-agent system |
-| 🏥 **MedQueue** | MERN · Socket.IO · WebRTC · Gemini AI | Full-stack OPD queue management + telemedicine platform with AI triage |
-| 📄 **Resume Matching System** | Python · NLP · React | AI-based ATS resume-job matcher using TF-IDF + cosine similarity |
+| Project | Stack | Links | Description |
+|---|---|---|---|
+| 🦅 **LegalEagle** | Python · LangChain · React · FastAPI | [GitHub](https://github.com/Saahil19/LegalEagle) | AI contract analysis with BERT NER + RAG pipeline + multi-agent system |
+| 🏥 **MedQueue** | MERN · Socket.IO · WebRTC · Gemini AI | [GitHub](https://github.com/Saahil19/medqueue-app) · [Live](https://medqueue-app-hazel.vercel.app/) | Full-stack OPD queue management + telemedicine platform with AI triage |
+| 📄 **Resume Matching System** | Python · NLP · React | [Live](https://resume-intelligence-eta.vercel.app/) | AI-based ATS resume-job matcher using TF-IDF + cosine similarity |
 
 </div>
 
@@ -209,7 +209,7 @@
 ## ⚔️ Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/Saahil19">
+  <a href="https://leetcode.com/u/sssaitwal19/">
     <img src="https://img.shields.io/badge/LeetCode-Knight%20%E2%9A%94%EF%B8%8F%20%7C%20850%2B%20%7C%201960-EF93C4?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" />
   </a>
   &nbsp;
@@ -226,8 +226,8 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/Saahil19">
-    <img src="https://img.shields.io/badge/LinkedIn-Saahil19-EF93C4?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a2e" />
+  <a href="https://www.linkedin.com/in/saahil-saitwal-53809a318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saahil%20Saitwal-EF93C4?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a2e" />
   </a>
   &nbsp;
   <a href="mailto:saitwalsaahil19@gmail.com">
