@@ -6,10 +6,10 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://mikewall.dev/tools/github-banners/api?text=Saahil+Saitwal&subtext=AI+%26+Full-Stack+Engineer&theme=dark&color=%23EF93C4" />
+            srcset="https://raw.githubusercontent.com/Saahil19/Saahil19/main/github_banner.png" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://mikewall.dev/tools/github-banners/api?text=Saahil+Saitwal&subtext=AI+%26+Full-Stack+Engineer&theme=light&color=%23FF69B4" />
-    <img src="https://mikewall.dev/tools/github-banners/api?text=Saahil+Saitwal&subtext=AI+%26+Full-Stack+Engineer&theme=dark&color=%23EF93C4"
+            srcset="https://raw.githubusercontent.com/Saahil19/Saahil19/main/github_banner.png" />
+    <img src="https://raw.githubusercontent.com/Saahil19/Saahil19/main/github_banner.png"
          alt="Saahil Saitwal — Banner" width="100%" />
   </picture>
 </div>
